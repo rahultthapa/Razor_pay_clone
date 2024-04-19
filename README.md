@@ -15,4 +15,3 @@ Technologies Used
 
     React.js: Frontend development library for building user interfaces.
     CSS: Styling to enhance the visual presentation and user experience.
-    Firebase: Used for user authentication and database management.
